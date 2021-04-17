@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-  color: #fbe0c4;
+  color: #0061a8;
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: normal;
@@ -23,7 +23,7 @@ h2 {
 }
 
 h3 {
-  color: #fbe0c4;
+  color: #0061a8;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -41,7 +41,7 @@ a:hover {
 p {
   line-height: 2;
   font-family: 'Montserrat', sans-serif;
-  color: #fbe0c4;
+  color: #0061a8;
 }
 
 hr {
